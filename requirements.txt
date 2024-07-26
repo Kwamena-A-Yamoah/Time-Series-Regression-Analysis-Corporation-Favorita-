@@ -7,4 +7,5 @@ seaborn
 scikit-learn
 imblearn
 statsmodels
-
+scipy
+tensorflow
